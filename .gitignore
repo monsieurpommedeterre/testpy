@@ -1,0 +1,8 @@
+# Ignore l'environnement virtuel
+venv/
+
+# Fichiers de cache Python
+__pycache__/
+
+# Fichiers spécifiques de l'IDE (par exemple pour VS Code)
+.vscode/
