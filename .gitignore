@@ -6,3 +6,6 @@ __pycache__/
 
 # Fichiers spécifiques de l'IDE (par exemple pour VS Code)
 .vscode/
+
+# Ignore le fichier .env
+.env
